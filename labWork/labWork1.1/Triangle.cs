@@ -9,6 +9,9 @@ namespace labWork1
     public class Triangle : IFigure
     {
         /// <summary>
+        /// Класс "Треугольник"
+        /// </summary>
+        /// <summary>
         /// Координата фигуры по оси X
         /// </summary>
         private int _x;//Координата фигуры по оси X

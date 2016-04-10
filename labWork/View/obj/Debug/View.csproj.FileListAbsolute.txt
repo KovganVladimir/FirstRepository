@@ -71,3 +71,6 @@ C:\Users\Владимир\Desktop\Идеальная лабораторная р
 C:\Users\Владимир\Desktop\labWork\View\bin\Debug\View.exe.config
 C:\Users\Владимир\Desktop\labWork\View\obj\Debug\View.exe
 C:\Users\Владимир\Desktop\labWork\View\obj\Debug\View.pdb
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\bin\Debug\View.exe.config
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.exe
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.pdb

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace labWork1
 {
+    /// <summary>
+    /// Класс "Круг"
+    /// </summary>
     public class Circle : IFigure
     {
         /// <summary>

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace labWork1
 {
+    /// <summary>
+    /// Класс "Прямоугольник"
+    /// </summary>
     public class Rectangle : IFigure
     {
         /// <summary>
