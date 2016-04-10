@@ -74,3 +74,14 @@ C:\Users\Владимир\Desktop\labWork\View\obj\Debug\View.pdb
 C:\Users\Владимир\Documents\FirstRepository\labWork\View\bin\Debug\View.exe.config
 C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.exe
 C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.pdb
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.AddModifyFigureForm.resources
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.View.resources
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\bin\Debug\View.exe
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\bin\Debug\View.pdb
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Documents\FirstRepository\labWork\View\bin\Debug\Newtonsoft.Json.xml

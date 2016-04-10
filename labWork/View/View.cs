@@ -19,7 +19,7 @@ namespace View
         private DataTable _table;
         public View()
         {
-            InitializeComponent();
+            InitializeComponent();//Инициализация элемента
             CreateDatatable();
             foreach (DataGridViewColumn column in FigureGridView.Columns)
             {
@@ -30,7 +30,9 @@ namespace View
         {
             public static List<IFigure> list = new List<IFigure>();
         }
-
+        /// <summary>
+        /// Создание таблицы
+        /// </summary>
         private void CreateDatatable()
         {
 
@@ -76,7 +78,9 @@ namespace View
         {
 
         }
-
+        /// <summary>
+        /// Нажатие по кнопке "Закрыть файл"
+        /// </summary>
         private void CloseFile_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("Закрыть программу?", "Завершение", MessageBoxButtons.YesNo);
@@ -89,16 +93,18 @@ namespace View
 
 
         }
-
+        /// <summary>
+        /// Нажатие по кнопке "Новый файл"
+        /// </summary>
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show("Все не сохраннёные данные могут быть потеряны. Создать новый файл?", "New", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            DialogResult result = MessageBox.Show("Все не сохраннёные данные могут быть потеряны. Создать новый файл?", "New", MessageBoxButtons.YesNo, MessageBoxIcon.Question);//Выводим сообщение с вопросом
             try
             {
-                if (result == DialogResult.Yes)
+                if (result == DialogResult.Yes)//Если пользователь ответил "Да"
                 {
-                    _table.Rows.Clear();
-                    ListFigures.list.Clear();
+                    _table.Rows.Clear();//Очищаем таблицу
+                    ListFigures.list.Clear();//Очищаем список объектов
                 }
             }
             catch (Exception ex)
@@ -106,22 +112,9 @@ namespace View
                 MessageBox.Show(ex.Message);
             }
         }
-        private void NewFile_Click(object sender, EventArgs e)
-        {
-            DialogResult result = MessageBox.Show("Все не сохраннёные данные могут быть потеряны. Создать новый файл?", "New", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            try
-            {
-                if (result == DialogResult.Yes)
-                {
-                    _table.Rows.Clear();
-                    ListFigures.list.Clear();
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-        }
+        /// <summary>
+        /// Нажатие по кнопке "Добавить фигуру"
+        /// </summary>
         private void AddShape(object sender, EventArgs e)
         {
             AddModifyFigureForm f = new AddModifyFigureForm();
@@ -140,19 +133,7 @@ namespace View
                 FigureGridView.Update();
             }
         }
-        private void RemoveData_Click(object sender, EventArgs e)
-        {
-
-            DialogResult result = MessageBox.Show("Удалить обьект?", "Удалить", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (result == DialogResult.Yes)
-            {
-                foreach (DataGridViewCell cell in FigureGridView.SelectedCells)
-                {
-                    FigureGridView.Rows.RemoveAt(cell.RowIndex);
-                }
-            }
-
-        }
+     
 
         public IFigure Figure { get; set; }
         public int _figure;
@@ -208,7 +189,9 @@ namespace View
         }
 
 
-
+        /// <summary>
+        /// Нажатие по кнопке "Удалить строку"
+        /// </summary>
         private void RemoveTheLine(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("Удалить обьект?", "Удалить", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
@@ -242,7 +225,9 @@ namespace View
                 MessageBox.Show(ex.Message);
             }
         }
-
+        /// <summary>
+        /// Нажатие по кнопке "Открыть файл"
+        /// </summary>
         private void OpenFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
             var serializer = new Newtonsoft.Json.JsonSerializer();
@@ -277,7 +262,9 @@ namespace View
 
 
 
-
+        /// <summary>
+        /// Нажатие по кнопке "Сохранить файл"
+        /// </summary>
         private void SaveToolStripMenuItem_Click(object sender, EventArgs e)
         {
             var serializer = new Newtonsoft.Json.JsonSerializer();
@@ -302,7 +289,9 @@ namespace View
 
 
 
-
+        /// <summary>
+        /// Нажатие по кнопке "Закрыть"
+        /// </summary>
         private void CloseToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("Закрыть программу?", "Завершение", MessageBoxButtons.YesNo);
