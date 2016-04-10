@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using labWork1;
+using Model;
 using View;
 
 namespace View
@@ -44,7 +44,7 @@ namespace View
         {
             try
             {
-                labWork1.IFigure figureModel = null;
+                Model.IFigure figureModel = null;
                 switch (_figure)
                 {
                     case 0:
@@ -58,7 +58,7 @@ namespace View
                         break;
 
                     case 1:
-                        var rectangle = new labWork1.Rectangle();
+                        var rectangle = new Model.Rectangle();
                         rectangle.Length = Convert.ToInt32(Length.Text);
                         rectangle.Width = Convert.ToInt32(Breadth.Text);
                         rectangle.X = Convert.ToInt32(X.Text);

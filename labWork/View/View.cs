@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using labWork1;
+using Model;
 using Newtonsoft;
 using System.IO;
 using Newtonsoft.Json;
@@ -145,7 +145,7 @@ namespace View
             for (int i = 0; i < 10; i++)
             {
                 style = rnd.Next(0, 3);
-                labWork1.IFigure figureModel = null;
+                Model.IFigure figureModel = null;
                 switch (_figure)
                 {
                     case 0:
@@ -156,7 +156,7 @@ namespace View
                         figureModel = circle;
                         break;
                     case 1:
-                        var rectangle = new labWork1.Rectangle();
+                        var rectangle = new Model.Rectangle();
                         rectangle.Length = Convert.ToInt32(rnd.Next(0, 10));
                         rectangle.Width = Convert.ToInt32(rnd.Next(0, 10));
                         rectangle.X = Convert.ToInt32(rnd.Next(0, 100));

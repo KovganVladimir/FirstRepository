@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace labWork1
+namespace Model
 {
     /// <summary>
     /// Класс "Круг"
