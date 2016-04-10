@@ -8,3 +8,9 @@ C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\bin\Debug\labWork1.1.dll
 C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\bin\Debug\labWork1.1.pdb
 C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\obj\Debug\labWork1.1.dll
 C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\obj\Debug\labWork1.1.pdb
+C:\Users\Владимир\Documents\FirstRepository\labWork\labWork1.1\bin\Debug\labWork1.1.dll.config
+C:\Users\Владимир\Documents\FirstRepository\labWork\labWork1.1\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Documents\FirstRepository\labWork\labWork1.1\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Documents\FirstRepository\labWork\labWork1.1\obj\Debug\labWork1.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\FirstRepository\labWork\labWork1.1\obj\Debug\labWork1.1.dll
+C:\Users\Владимир\Documents\FirstRepository\labWork\labWork1.1\obj\Debug\labWork1.1.pdb
