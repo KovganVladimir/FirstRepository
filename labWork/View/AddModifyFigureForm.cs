@@ -21,7 +21,7 @@ namespace View
 
         public AddModifyFigureForm()
         {
-            InitializeComponent();
+            InitializeComponent();//Инициализация элемента
         }
 
         private void AddModifyFigureForm_Load(object sender, EventArgs e)
@@ -29,13 +29,17 @@ namespace View
 
         }
 
-
+        /// <summary>
+        /// Нажатие по кнопке "Отмена"
+        /// </summary>
         private void Cancel_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.Cancel;
             this.Close();
         }
-
+        /// <summary>
+        /// Нажатие по кнопке "Рассчитать"
+        /// </summary>
         private void Calculate_Click(object sender, EventArgs e)
         {
             try
