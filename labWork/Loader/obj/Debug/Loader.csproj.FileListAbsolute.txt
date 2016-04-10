@@ -1,0 +1,12 @@
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\Loader\bin\Debug\Loader.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\Loader\bin\Debug\Loader.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\Loader\bin\Debug\Loader.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\Loader\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\Loader\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\Loader\obj\Debug\Loader.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\Loader\obj\Debug\Loader.pdb
+C:\Users\Владимир\Desktop\labWork1.1\Loader\bin\Debug\Loader.exe.config
+C:\Users\Владимир\Desktop\labWork1.1\Loader\obj\Debug\Loader.exe
+C:\Users\Владимир\Desktop\labWork1.1\Loader\obj\Debug\Loader.pdb
+C:\Users\Владимир\Desktop\labWork1.1\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache

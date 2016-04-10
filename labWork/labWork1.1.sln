@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labWork1", "labWork1.1\labWork1.csproj", "{7DEC7832-619A-4EA9-9B75-9467BBBF46DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "Loader\Loader.csproj", "{909343FC-3535-4FF3-BACC-D0CD860938F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View\View.csproj", "{2A23C77D-F574-420F-9897-A46F8E35E24A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEC7832-619A-4EA9-9B75-9467BBBF46DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEC7832-619A-4EA9-9B75-9467BBBF46DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEC7832-619A-4EA9-9B75-9467BBBF46DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEC7832-619A-4EA9-9B75-9467BBBF46DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909343FC-3535-4FF3-BACC-D0CD860938F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909343FC-3535-4FF3-BACC-D0CD860938F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909343FC-3535-4FF3-BACC-D0CD860938F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909343FC-3535-4FF3-BACC-D0CD860938F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A23C77D-F574-420F-9897-A46F8E35E24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A23C77D-F574-420F-9897-A46F8E35E24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A23C77D-F574-420F-9897-A46F8E35E24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A23C77D-F574-420F-9897-A46F8E35E24A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

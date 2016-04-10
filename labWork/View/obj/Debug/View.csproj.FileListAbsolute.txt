@@ -1,0 +1,73 @@
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\bin\Debug\View.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\bin\Debug\View.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\bin\Debug\View.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\obj\Debug\View.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\obj\Debug\View.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\obj\Debug\View.View.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\View\obj\Debug\View.AddModifyFigureForm.resources
+C:\Users\Владимир\Desktop\labWork1.1\View\bin\Debug\View.exe.config
+C:\Users\Владимир\Desktop\labWork1.1\View\obj\Debug\View.exe
+C:\Users\Владимир\Desktop\labWork1.1\View\obj\Debug\View.pdb
+C:\Users\Владимир\Desktop\labWork1.1\View\bin\Debug\View.exe
+C:\Users\Владимир\Desktop\labWork1.1\View\bin\Debug\View.pdb
+C:\Users\Владимир\Desktop\labWork1.1\View\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Desktop\labWork1.1\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владимир\Desktop\labWork1.1\View\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Desktop\labWork1.1\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Владимир\Desktop\labWork1.1\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\labWork1.1\View\obj\Debug\View.AddModifyFigureForm.resources
+C:\Users\Владимир\Desktop\labWork1.1\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Владимир\Desktop\labWork1.1\View\obj\Debug\View.View.resources
+C:\Users\Владимир\Desktop\labWork1.1\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\bin\Debug\View.exe.config
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\obj\Debug\View.exe
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\obj\Debug\View.pdb
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\bin\Debug\View.exe
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\bin\Debug\View.pdb
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\obj\Debug\View.AddModifyFigureForm.resources
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\obj\Debug\View.View.resources
+C:\Users\Владимир\Desktop\labWork1.1 — копия (2)\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\bin\Debug\View.exe.config
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\obj\Debug\View.exe
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\obj\Debug\View.pdb
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\bin\Debug\View.exe
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\bin\Debug\View.pdb
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\obj\Debug\View.AddModifyFigureForm.resources
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\obj\Debug\View.View.resources
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\bin\Debug\View.exe.config
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\obj\Debug\View.exe
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\obj\Debug\View.pdb
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\bin\Debug\View.exe
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\bin\Debug\View.pdb
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\obj\Debug\View.AddModifyFigureForm.resources
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\obj\Debug\View.View.resources
+C:\Users\Владимир\Desktop\Идеальная лабораторная работа 2\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\labWork\View\bin\Debug\View.exe.config
+C:\Users\Владимир\Desktop\labWork\View\obj\Debug\View.exe
+C:\Users\Владимир\Desktop\labWork\View\obj\Debug\View.pdb
